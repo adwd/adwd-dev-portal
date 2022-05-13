@@ -1,0 +1,3 @@
+name = "portal"
+main = "src/index.ts"
+compatibility_date = "2022-05-13"
